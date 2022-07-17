@@ -309,7 +309,7 @@ on PyPI_, the following steps can be used to release a new version for
 .. |pre-commit| replace:: ``pre-commit``
 .. |tox| replace:: ``tox``
 
-
+.. _broken: https://fake.fake.fake
 .. _black: https://pypi.org/project/black/
 .. _CommonMark: https://commonmark.org/
 .. _contribution-guide.org: https://www.contribution-guide.org/
