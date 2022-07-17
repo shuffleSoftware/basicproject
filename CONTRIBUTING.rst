@@ -309,9 +309,8 @@ on PyPI_, the following steps can be used to release a new version for
 .. |pre-commit| replace:: ``pre-commit``
 .. |tox| replace:: ``tox``
 
-.. _broken: https://fake.fake.fake
 .. _black: https://pypi.org/project/black/
-.. _CommonMark: https://commonmark.org/
+.. _CommonMark: https://commonmark.reallybadcom/
 .. _contribution-guide.org: https://www.contribution-guide.org/
 .. _creating a PR: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 .. _descriptive commit message: https://chris.beams.io/posts/git-commit
