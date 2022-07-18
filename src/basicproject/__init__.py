@@ -6,6 +6,7 @@ if sys.version_info[:2] >= (3, 8):
 else:
     from importlib_metadata import PackageNotFoundError, version  # pragma: no cover
 
+# agregando comentario 2022-07-18 RVP
 try:
     # Change here if project is renamed and does not equal the package name
     dist_name = __name__
